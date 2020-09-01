@@ -1,0 +1,6 @@
+[DEFAULT]
+tenancy=ocid1.tenancy.oc1..aaaaaaaaqiwpx4mw6xhq2bq3rjgifvzgr3ffde4f7j3bilye3lpjlftwsqda
+user=ocid1.user.oc1..aaaaaaaavptt7zbpswfmi3etgzd7agfff3a5bdp5xhl5t7iwaflls5xur6ha
+fingerprint=37:f7:d3:46:b1:c4:e2:e3:68:65:a0:45:e1:2a:25:74
+key_file=~/.oci/bmcs_api_key.pem
+region=ap-seoul-1
